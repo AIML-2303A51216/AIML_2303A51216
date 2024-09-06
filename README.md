@@ -7,3 +7,7 @@ Lab 3
 A* Algorithm  https://github.com/AIML-2303A51216/AIML_2303A51216/edit/main/README.md
 Lab 4
 https://github.com/AIML-2303A51216/AIML_2303A51216/blob/main/Untitled10.ipynb
+Lab 5
+https://github.com/AIML-2303A51216/AIML_2303A51216/blob/main/Untitled11.ipynb
+
+
